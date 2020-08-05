@@ -1,2 +1,2 @@
-# Practice-videoPlayer
+# Customized-videoPlayer
 customized video player, vanila js
